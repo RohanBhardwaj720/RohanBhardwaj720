@@ -38,9 +38,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhardwaj720&theme=vision-friendly-dark" alt="Top Langs">
 </a>
 <a href="#">
-    <img src="![](https://leetcard.jacoblin.cool/RohanBhardwaj08?site=us&ext=heatmap)", alt="Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/RohanBhardwaj08?site=us&ext=heatmap", alt="Leetcode Stats">
 </a>
 <a href="#">
-    <img src="![](https://codeforces-readme-stats.vercel.app/api/card?username=RohanBhardwaj)", alt="Codeforces Stats">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=RohanBhardwaj", alt="Codeforces Stats">
 </a>
 ---
