@@ -24,18 +24,23 @@
 
 ---
 
-<!-- <h1>🔥 My Stats 🔥</h3>
-<br>
+<h1>🔥 My Stats 🔥</h3>
+<!-- <br>
 <a href="#">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devasheeshG&theme=dark&background=000000" alt="GitHub Streak">
 </a> -->
-<!-- <br>
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=devasheeshG&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Devasheesh's GitHub stats">
+<!-- <br> -->
+<!-- <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=RohanBhardwaj720&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Rohan's GitHub stats">
 </a> -->
-<!-- <br>
+<br>
 <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devasheeshG&theme=vision-friendly-dark" alt="Top Langs">
-</a> -->
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhardwaj720&theme=vision-friendly-dark" alt="Top Langs">
+</a>
+<a href="#">
+    <img src="![](https://leetcard.jacoblin.cool/RohanBhardwaj08?site=us&ext=heatmap)", alt="Leetcode Stats">
+</a>
+<a href="#">
+    <img src="![](https://codeforces-readme-stats.vercel.app/api/card?username=RohanBhardwaj)", alt="Codeforces Stats">
+</a>
 ---
