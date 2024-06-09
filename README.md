@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="./chatgpt_feat.gif">
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan's Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=RohanBhardwaj720&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan's Profile Views" />
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/rohanbhardwaj-ty/">
         <img src="https://img.shields.io/badge/-RohanBhardwaj-blue?style=flat&logo=Linkedin&logoColor=white" alt="Rohan's LinkedIn" />
