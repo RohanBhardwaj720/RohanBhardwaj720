@@ -1,7 +1,6 @@
 ![MasterHead](init.gif)
 
 <h1 align="center">Hi 👋, I'm ROHAN BHARDWAJ</h1>
-<h3 align="center">A passionate AI specialist from Delhi, India.</h3>
 <img align="right" alt="Coding" width="400" src="./chatgpt_feat.gif">
 
 <p align="left"> 
@@ -12,7 +11,6 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Web Devlopment, InternetOfThings**
 - 📫 Also available at **rohanbhardwaj720@gmail.com**
 
 <!-- <p align="left">
